@@ -1,8 +1,7 @@
 /**
  * Cette classe modelise un contact personnel.
  *
- * @author Imad Bouarfa
- * Code permanent: BOUI24039303
+ * @author Imad Bouarfa Shaker
  * Courriel: bouarfa.imad@courrier.uqam.ca
  * Cours: INF1120-20
  * @version 2022-12-10
