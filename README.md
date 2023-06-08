@@ -1,6 +1,6 @@
 # Carnet-de-Contacts
 
-# Description du project
+# Description du projet
 
 Le projet est une classe nommée "Contact" servant à modéliser un contact personnel. Cette classe pourrait éventuellement servir dans une application de gestion d'un carnet de contacts personnels où l'on pourrait ajouter/supprimer/modifier des contacts, etc.
 
